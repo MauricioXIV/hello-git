@@ -1,2 +1,1 @@
-print("holawe")
-print("será")
+print("New Hello Git")
