@@ -1,1 +1,1 @@
-print("inicia sesión")
+print("inicia sesión con 2 pasos")
